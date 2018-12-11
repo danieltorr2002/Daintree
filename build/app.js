@@ -81,10 +81,10 @@ function lastPic(){
 function showUseless(){
     free.style.textAlign = "center";
     free.style.marginBottom = "25px";
-    uselessBtn.style.width = "500px";
-    uselessBtn.style.height = "500px";
-    uselessBtn.style.marginLeft = "500.5px";
-    uselessBtn.style.marginRight = "500.5px";
+    uselessBtn.style.width = "50%";
+    uselessBtn.style.height = "50%";
+    uselessBtn.style.marginLeft = "auto";
+    uselessBtn.style.marginRight = "auto";
     uselessBtn.style.borderRadius = "50%";
     uselessBtn.style.marginBottom = "15px";
     useless.style.display = "inherit";

@@ -40,7 +40,7 @@
 .useless .useless-button{
     display: none;
     background: white;
-    width: 500px;
+    width: 50%;
 }
 
 .useless #message{
