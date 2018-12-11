@@ -111,3 +111,8 @@ function count(){
     count++;
     counter.innerHTML = "Counter: " + count;
 }
+
+function back(){
+    whole.style.display = "inherit";
+    useless.style.display = "none";
+}
