@@ -119,4 +119,8 @@ function count(){
 function back(){
     whole.style.display = "inherit";
     useless.style.display = "none";
+    free.style.display = "none";
+    uselessBtn.style.display = "none";
+    message.style.display = "none";
+    back.style.display = "none";
 }
