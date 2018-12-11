@@ -7,6 +7,7 @@ var free = document.getElementById("free");
 var uselessBtn = document.getElementById("useless-button");
 var message = document.getElementById("message");
 var counter = document.getElementById("count");
+var back = document.getElementById("back");
 var whole = document.getElementById("whole");
 
 var currentPic = 0;
@@ -105,6 +106,9 @@ function showUseless(){
     counter.style.display = "inherit";
     counter.style.background = "none";
     counter.style.background = "white";
+    back.style.display = "inherit";
+    back.style.background = "none";
+    back.style.background = "white";
 }
 
 function count(){
