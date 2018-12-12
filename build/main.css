@@ -284,6 +284,7 @@
     max-width: 225px; 
     max-height: 225px;
     background: #999999;
+    margin-left: 10px;
 }
 
 .whole .body #buy{
