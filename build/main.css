@@ -137,13 +137,13 @@
 .whole .body .quote p i{
     background: #999999;
     position: absolute;
-    bottom: 50%;
+    bottom: 30%;
     font-size: 25px;
 }
 
 .whole .body .logo{
     position: absolute;
-    bottom: 5%;
+    bottom: 0%;
 }
 
 .whole .body .slide-container{
