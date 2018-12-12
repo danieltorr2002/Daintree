@@ -333,7 +333,7 @@
     position: absolute;
     top: 65px;
     float: right;
-    right: 10%;
+    right: 20%;
     border: solid black 1px;
 }
 
@@ -357,7 +357,7 @@
     max-width: 200px;
     max-height: 200px;
     position: absolute;
-    top: 100px;
+    top: 280px;
     float: right;
     right: 3%;
     border: solid black 1px;
