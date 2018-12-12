@@ -6,7 +6,6 @@ var useless = document.getElementById("useless");
 var free = document.getElementById("free");
 var uselessBtn = document.getElementById("useless-button");
 var message = document.getElementById("message");
-var counter = document.getElementById("count");
 var back = document.getElementById("back");
 var whole = document.getElementById("whole");
 
@@ -104,12 +103,6 @@ function showUseless(){
     message.style.background = "white";
     message.style.width = "100%";
     message.style.textAlign = "center";
-    counter.style.display = "inherit";
-    counter.style.background = "none";
-    counter.style.background = "white";
-    counter.style.marginLeft = "auto";
-    counter.style.marginRight = "auto";
-    counter.style.width = "50%";
     back.style.display = "inherit";
     back.style.background = "black";
     back.style.color = "white";
@@ -117,7 +110,7 @@ function showUseless(){
 
 function count(){
     count++;
-    counter.innerHTML = "Counter: " + count;
+    message.innerHTML = "This button serves no purpose let it free you of responsibility and enrich your life<br>Counter: " + count;
 }
 
 function back(){
