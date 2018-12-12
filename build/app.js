@@ -107,6 +107,9 @@ function showUseless(){
     counter.style.display = "inherit";
     counter.style.background = "none";
     counter.style.background = "white";
+    counter.style.marginLeft = "auto";
+    counter.style.marginRight = "auto";
+    counter.style.width = "50%";
     back.style.display = "inherit";
     back.style.background = "black";
     back.style.color = "white";
