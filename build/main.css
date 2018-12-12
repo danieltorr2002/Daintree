@@ -275,6 +275,8 @@
     max-width: 225px; 
     max-height: 225px;
     background: #999999;
+    float: right;
+    right: 75%;
 }
 
 .whole .body .bookshelf #thedial{
@@ -283,6 +285,8 @@
     max-width: 225px; 
     max-height: 225px;
     background: #999999;
+    float: right;
+    right: 25%;
 }
 
 .whole .body #buy{
