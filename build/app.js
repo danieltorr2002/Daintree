@@ -98,7 +98,7 @@ function showUseless(){
     free.style.background = "white";
     uselessBtn.style.background = "none";
     uselessBtn.style.background = "white";
-    uselessBtn.style.marginBottom = "200px";
+    uselessBtn.style.marginBottom = "145px";
     message.style.background = "none";
     message.style.background = "white";
     message.style.width = "100%";
@@ -109,8 +109,8 @@ function showUseless(){
 }
 
 function count(){
-    count++;
-    message.innerHTML = "This button serves no purpose let it free you of responsibility and enrich your life<br>Counter: " + count;
+    counter++;
+    message.innerHTML = "This button serves no purpose let it free you of responsibility and enrich your life<br>Counter: " + counter;
 }
 
 function back(){
