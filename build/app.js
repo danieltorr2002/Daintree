@@ -108,7 +108,6 @@ function showUseless(){
     counter.style.background = "none";
     counter.style.background = "white";
     back.style.display = "inherit";
-    back.style.background = "none";
     back.style.background = "black";
     back.style.color = "white";
 }
