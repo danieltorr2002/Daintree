@@ -99,6 +99,7 @@ function showUseless(){
     free.style.background = "white";
     uselessBtn.style.background = "none";
     uselessBtn.style.background = "white";
+    uselessBtn.style.marginBottom = "200px";
     message.style.background = "none";
     message.style.background = "white";
     message.style.width = "100%";

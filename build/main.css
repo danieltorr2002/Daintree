@@ -31,7 +31,7 @@
     background: white;
 }
 
-.useless .back{
+.useless #back{
     background: black;
     color: white;
     display: none;
